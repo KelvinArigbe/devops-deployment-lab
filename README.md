@@ -1,3 +1,5 @@
+![GitHub Actions](https://github.com/KelvinArigbe/devops-deployment-lab/actions/workflows/ci.yml/badge.svg?branch=main)
+
 # DevOps Deployment Lab
 
 A small containerised static website used to practise Docker image builds, Nginx-based delivery, versioned application changes, and automated verification with GitHub Actions.
